@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-labelledby="title desc">
+  <title id="title">Profile photo placeholder</title>
+  <desc id="desc">Replace this placeholder by adding a profile.jpg image to the assets folder.</desc>
+  <rect width="400" height="400" fill="#f6f7f8"/>
+  <circle cx="200" cy="148" r="70" fill="#d9dde2"/>
+  <path d="M72 400c8-105 54-158 128-158s120 53 128 158" fill="#d9dde2"/>
+  <text x="200" y="372" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#73777e">Add profile.jpg</text>
+</svg>
